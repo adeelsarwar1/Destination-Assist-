@@ -106,7 +106,7 @@ export const destinations = [
     name: 'Prague',
     country: 'Czech Republic',
     slug: 'prague',
-    heroImage: 'https://https://www.google.com/imgres?q=parage&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F40%2F%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5_-_Parage.JPG%2F1024px-%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5_-_Parage.JPG&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3A%25D0%259F%25D0%25B0%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5_-_Parage.JPG&docid=4kO7bWbRSbZ3SM&tbnid=aEGDM-FS3cHW4M&vet=12ahUKEwiavs_yoLiOAxWwVKQEHQx_KzEQM3oECFYQAA..i&w=1024&h=378&hcb=2&itg=1&ved=2ahUKEwiavs_yoLiOAxWwVKQEHQx_KzEQM3oECFYQAA.pexels.com/photos/161901/prague-czech-republic-city-morning-161901.jpeg?auto=compress&cs=tinysrgb&w=1600',
+    heroImage: 'https://images.unsplash.com/photo-1607333956338-43c89d2d5862?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBhcmFnZXxlbnwwfHwwfHx8MA%3D%3D',
     shortDescription: 'Medieval architecture, world-famous beer, and fairytale castles await in this Central European gem.',
     introduction: 'Prague is a living fairy tale with its medieval Old Town, stunning castle, and legendary beer culture. This Central European capital offers incredible value for money, with delicious meals and quality beer at unbeatable prices.',
     quickFacts: {
